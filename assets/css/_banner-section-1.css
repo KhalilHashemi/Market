@@ -1,0 +1,12 @@
+ /* start Banner-1 products offers */
+ 
+ .banner-section-1 .banner-img-hover img {
+     transition: all .2s;
+ }
+ 
+ .banner-section-1 .banner-img-hover:hover img {
+     transform: scale(1.15);
+ }
+ 
+ @media
+ /* end Banner-1 products offers  */

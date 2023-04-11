@@ -1,0 +1,25 @@
+/* start slider nav */
+
+.custom-col-lg-3 {
+    flex: 0 0 22.39%;
+    max-width: 22.39%;
+}
+
+.custom-col-lg-6 {
+    flex: 0 0 55.22%;
+    max-width: 55.22%;
+}
+
+@media (max-width:970px) {
+    .custom-col-lg-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .custom-col-lg-3 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+}
+
+
+/* start slider nav */

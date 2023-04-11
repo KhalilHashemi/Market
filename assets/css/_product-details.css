@@ -1,0 +1,240 @@
+/* start product details section */
+
+.cusotm-breadcrumb {
+    font-size: 15px;
+}
+
+.breadcrumb-item+.breadcrumb-item::before {
+    content: ">";
+}
+
+.product-page-title {
+    font-size: 30px;
+}
+
+.product-page-title i.fa-bell {
+    font-weight: normal;
+    color: #c4ad30;
+}
+
+.product-page-title a:hover i.fa-bell {
+    color: #e4c206;
+    font-weight: bold;
+}
+
+.product-page-title i.fa-share-alt {
+    font-weight: normal;
+    color: #0000ff;
+}
+
+.product-page-title a:hover i.fa-share-alt {
+    color: #0000ff;
+    font-weight: bold;
+}
+
+.product-page-title i.fa-heart {
+    font-weight: normal;
+}
+
+.product-page-title a:hover i.fa-heart {
+    font-weight: bold;
+}
+
+.product-page-rate {
+    color: gold;
+    font-size: 14px;
+}
+
+.product-page-price {
+    font-size: 18px;
+}
+
+p.describe {
+    font-size: 16px;
+}
+
+.p-benfit {
+    font-size: 19px;
+    color: #0077b8;
+}
+
+.custom-ul-product-page div {
+    font-size: 15px;
+    color: #767474;
+}
+
+.brand-cat {
+    font-size: 17px;
+    background-color: #efefef;
+    padding: 16px;
+}
+
+.benfit-list i {
+    vertical-align: -1px;
+    color: #0077b8;
+}
+
+.buy-basket-label,
+.buy-basket-button {
+    font-size: 16px;
+}
+
+.buy-basket-label {
+    max-width: 90px;
+}
+
+.basket-buy-form .has-buy-basket-button {
+    margin-right: 25px;
+}
+
+.buy-basket-input {
+    padding: 0;
+    max-height: 40px;
+    display: inline-block;
+    vertical-align: -4px;
+    font-size: 16px;
+    text-align: center;
+    max-width: 45px;
+}
+
+.product-all-rate p {
+    font-size: 15px;
+}
+
+.custom-nav-tabs-product-page li a {
+    transition: all .2s!important;
+}
+
+.custom-nav-tabs-product-page .nav-item .active {
+    border-top: 4px solid red;
+    border-radius: 5%;
+}
+
+.custom-nav-tabs-product-page .nav-item a.active {
+    padding-top: 8px;
+}
+
+.product-desc-step .p-img-wrapper img {
+    max-width: 500px!important;
+    margin: 0 auto;
+}
+
+.custom-tab-pane-product-details p i {
+    font-weight: bold;
+    margin-left: 5px;
+    vertical-align: -3px;
+}
+
+.custom-tab-pane-product-details .custom-product-details-title {
+    font-size: 20px;
+}
+
+.custom-tab-pane-product-details ul li .key {
+    padding-right: 15px;
+    background-color: #efefef;
+    flex: 0 0 20%;
+    height: 40px;
+    font-size: 16px;
+}
+
+.custom-tab-pane-product-details li .value {
+    padding-right: 15px;
+    background-color: #efefef;
+    flex: 0 0 75%;
+    height: 40px;
+    font-size: 16px;
+}
+
+.add-comment h2 {
+    font-size: 25px;
+}
+
+.add-comment p:nth-child(2) {
+    font-size: 15px;
+}
+
+.add-comment a {
+    font-size: 14px;
+}
+
+.add-comment a i {
+    display: inline-block;
+    vertical-align: -3px;
+    margin-right: 8px;
+    font-size: 17px;
+}
+
+.user-details h5 {
+    font-size: 20px;
+}
+
+.user-suggest-box {
+    font-size: 18px;
+    color: #08ba08;
+    background-color: #ebebeb;
+    padding: 4px 15px;
+    border-radius: 7px;
+    margin: 20px 0;
+}
+
+.user-suggest-information {
+    font-size: 17px;
+    background-color: #efefef;
+    padding: 10px 0;
+    border-radius: 7px;
+}
+
+.user-suggest-information .badge-pill {
+    font-size: 14px;
+}
+
+.user-suggest-arrangement {
+    margin-bottom: 20px;
+    font-size: 15px;
+    color: #5e5c5c;
+}
+
+.user-suggest-arrangement i.fas {
+    font-size: 9px;
+    color: #1cba1c;
+}
+
+.user-suggest-arrangement i.negative-fas {
+    color: red;
+}
+
+.user-suggest-arrangement span {
+    font-size: 20px;
+    color: #1cba1c;
+}
+
+.user-suggest-arrangement span.negative-points {
+    color: red;
+}
+
+.user-suggest-question {
+    font-size: 17px;
+}
+
+.custom-media-body span:nth-child(1),
+.custom-media-body span:nth-child(2) {
+    font-size: 17px;
+}
+
+.comments-section-title {
+    font-size: 19px;
+    padding: 13px 10px;
+}
+
+.comments-section-title i.far {
+    font-size: 27px;
+    vertical-align: -4px;
+}
+
+.comments-section textarea,
+.comments-section input::-webkit-input-placeholder {
+    font-size: 15px;
+}
+
+
+/* end product details section */

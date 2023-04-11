@@ -1,0 +1,40 @@
+.login-btn i.fa-user {
+    vertical-align: -4px;
+    font-size: 18px;
+}
+
+.login-btn span {
+    font-size: 15px;
+}
+
+.form-login input[type=email],
+.form-login input[type=password] {
+    border: none;
+    border-bottom: 2px solid rgb(63, 61, 61);
+    border-radius: 0;
+}
+
+.form-login label {
+    font-size: 14px;
+}
+
+#login-form h5 {
+    font-size: 20px;
+}
+
+#login-form .form-check-input {
+    margin-top: 14px!important;
+}
+
+#login-form div.modal-footer a {
+    font-size: 15px;
+}
+
+#login-form .form-check-label {
+    padding-top: 8px!important;
+}
+
+#form-password-input::-webkit-input-placeholder,
+#form-email-input::-webkit-input-placeholder {
+    font-size: 12px;
+}

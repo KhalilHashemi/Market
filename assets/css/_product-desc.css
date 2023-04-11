@@ -1,0 +1,8 @@
+.product-desc-step li {
+    border-right: 1px solid #000;
+}
+
+.product-desc-step li i {
+    top: -7px;
+    right: -9px;
+}

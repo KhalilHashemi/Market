@@ -1,0 +1,53 @@
+ /* start popular products offers  */
+ 
+ .p-text,
+ .p-title {
+     font-size: 14px;
+ }
+ 
+ .p-img {
+     max-width: 175px;
+ }
+ 
+ .custom-card-carousel {
+     transition: all .3s;
+     border: 0;
+ }
+ 
+ .custom-card-carousel:hover {
+     transform: scale(1.2);
+ }
+ 
+ .owl-carousel .owl-nav {
+     position: absolute;
+     top: 60px;
+     width: 100%;
+     display: flex!important;
+ }
+ 
+ .owl-carousel .owl-nav .owl-prev {
+     position: absolute;
+     right: -45px;
+     width: 46px;
+     background-color: rgb(161, 160, 160)!important;
+ }
+ 
+ .owl-carousel .owl-nav .owl-next {
+     position: absolute;
+     left: -48px;
+     width: 46px;
+     background-color: rgb(161, 160, 160)!important;
+ }
+ 
+ .owl-carousel .owl-nav .owl-prev span,
+ .owl-carousel .owl-nav .owl-next span {
+     display: block;
+     font-size: 66px;
+ }
+ 
+ .owl-carousel .owl-nav .owl-prev:focus,
+ .owl-carousel .owl-nav .owl-prev:focus span .owl-carousel .owl-nav .owl-next:focus,
+ .owl-carousel .owl-nav .owl-next:focus span {
+     outline: none!important;
+ }
+ /* end popular products offers  */
